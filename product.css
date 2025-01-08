@@ -24,4 +24,11 @@ a {
 #choise{
     text-align: center;
 }
-    
+ #products123{
+  display: flex;
+justify-content: space-around;
+ }   
+ #product1{
+    display: flex;
+    justify-content: space-around;
+ }
